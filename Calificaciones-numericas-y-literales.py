@@ -8,7 +8,7 @@ class Calificacion:
         self.nota = nota
 
     def convertir_a_literal(self):
-        # Método para convertir calificación numérica a literal
+        # Metodo para convertir calificación numérica a literal
         if 90 <= self.nota <= 100:
             return "A"
         elif 80 <= self.nota < 90:

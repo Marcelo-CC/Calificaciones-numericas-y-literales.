@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09fc7b72-7fc3-4d2e-af14-1c60595b9afc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Calificaciones-numericas-y-literales.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calificaciones-numericas-y-literales.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="09fc7b72-7fc3-4d2e-af14-1c60595b9afc" name="Changes" comment="Calificaciones numéricas y literales.">
+      <change beforePath="$PROJECT_DIR$/Calificaciones-numericas-y-literales.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calificaciones-numericas-y-literales.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +30,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Calificaciones-numericas-y-literales.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -81,7 +75,20 @@
       <option name="presentableId" value="Default" />
       <updated>1725330994474</updated>
     </task>
+    <task id="LOCAL-00001" summary="Calificaciones numéricas y literales.">
+      <option name="closed" value="true" />
+      <created>1725331111538</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725331111538</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Calificaciones numéricas y literales." />
+    <option name="LAST_COMMIT_MESSAGE" value="Calificaciones numéricas y literales." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
